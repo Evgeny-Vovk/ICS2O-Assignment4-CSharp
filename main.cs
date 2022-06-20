@@ -68,7 +68,7 @@ class Program
 
         totalPrice = (toppingsCost + sizeCost) * TAX;
         Console.WriteLine("");
-        Console.WriteLine("The total cost of your pizza today is $" + totalPrice.ToString("0.00") + ". Enjoy!");
+        Console.WriteLine("The total cost of your pizza today is $" + totalPrice.ToString("0.00") + ".");
         Console.WriteLine("\nDone.");
     }
 }
