@@ -1,4 +1,4 @@
-// Created by: Marshall Demars
+// Created by: Evgeny Vovk
 // Created on: Apr 2022
 //
 // This program accepts user input
